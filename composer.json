@@ -1,12 +1,12 @@
 {
-    "name": "sylvi/activerecord", 
-    "description": "activerecord",   
+    "name": "sylvi/activerecord",
+    "description": "ActiveRecord",
     "authors": [
         {
             "name": "Sylvio Tavora",
             "email": "sylvio@stavora.com.br"
         }
-    ],
+    ],    
     "require": {},
     "autoload": {
         "psr-4": {
